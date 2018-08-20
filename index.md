@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome!
 
-You can use the [editor on GitHub](https://github.com/jarobin/jarobin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am an evolutionary geneticist studying deleterious variation in non-human species through analysis of whole genome sequences.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am currently a postdoctoral scholar working with Dr. Jeff Wall in the Institute for Human Genetics at the University of California, San Francisco. In 2017, I completed my PhD in the Department of Ecology and Evolutionary Biology at the University of California, Los Angeles under the mentorship of Dr. Robert Wayne. 
 
-### Markdown
+I am interested in using whole genome sequence data to study evolution, with particular emphasis on understanding patterns of deleterious variation, especially in small or inbred populations. New genomic sequencing technologies have opened the door for investigation of putatively deleterious alleles in virtually any organism. However, the influence of these mutations on individual phenotypes, and on population persistence, is still unclear. In my research, I seek to understand the dynamics governing deleterious mutations, as well as their phenotypic impacts, with the ultimate goal of making predictions about the fitness of individuals and populations from genomic data. For my dissertation, I examined the complete genomes of Channel Island foxes and Isle Royale gray wolves to study the effects of small population size and inbreeding. I am currently investigating captive colonies of non-human primates to identify and quantify the full burden of strongly deleterious recessive mutations across the genome in species closely related to humans.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Email: firstname dot lastname at ucsf dot edu
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jarobin/jarobin.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[Google Scholar](https://scholar.google.com/citations?user=bcoxqJgAAAAJ&hl=en) | [Github](https://github.com/jarobin/) | [Wall Lab](https://walllab.ucsf.edu/)
