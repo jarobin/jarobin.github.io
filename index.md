@@ -8,4 +8,4 @@ I am interested in using whole genome sequence data to study evolution, with par
 
 Email: firstname dot lastname at ucsf dot edu
 
-[Google Scholar](https://scholar.google.com/citations?user=bcoxqJgAAAAJ&hl=en) | [Github](https://github.com/jarobin/) | [Wall Lab](https://walllab.ucsf.edu/)
+[Google Scholar](https://scholar.google.com/citations?user=bcoxqJgAAAAJ&hl=en) \| [Github](https://github.com/jarobin/) \| [Wall Lab](https://walllab.ucsf.edu/)
