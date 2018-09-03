@@ -1,2 +1,2 @@
 # jarobin.github.io
-Website for Jacqueline Robinson's research.
+Jacqueline Robinson's research website
