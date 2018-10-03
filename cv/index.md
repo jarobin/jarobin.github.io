@@ -41,8 +41,11 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 #### Poster
 2018: Population, Evolutionary, and Quantitative Genetics Meeting, Madison, WI
+
 2016: Northern California Computational Biology Student Symposium, Berkeley, CA
+
 2016: Annual Biology Research Symposium, UCLA
+
 2016: Southern California Evolutionary Genetics & Genomics Meeting, Los Angeles, CA
 
 
