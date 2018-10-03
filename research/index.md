@@ -1,7 +1,7 @@
-# Research
+## Research
 
-## Island Foxes
+### Island Foxes
 
-## Isle Royale Wolves
+### Isle Royale Wolves
 
-## Baboons
+### Baboons
