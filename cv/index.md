@@ -2,12 +2,12 @@
 ## CV
 
 ### Education
-#### Ph.D. Biology, 2017
-University of California, Los Angeles
-Advisor: Dr. Robert K. Wayne
+Ph.D. Biology, 2017
+  University of California, Los Angeles
+  Advisor: Dr. Robert K. Wayne
   
-#### B.S. Biological Sciences, 2008
-University of Southern California
+B.S. Biological Sciences, 2008
+  University of Southern California
 
 
 ### Publications
