@@ -45,7 +45,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 ### Outreach and Service
 - Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): Molecular Ecology, Current Biology, Genome Biology and Evolution, Nature Ecology & Evolution
-- 2018: GENETICS Peer Review Training Program, participant
+- 2018: GENETICS Peer Review Training Program, participant ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, guest presenter
 - 2017: Intel International Science and Engineering Fair, bioinformatics judge
 - 2017: UCLA Department of Ecology & Evolutionary Biology Graduate Research Awards Committee, member
@@ -56,7 +56,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 - 2016, 2015, 2014: EEB135/235 Population Genetics
 - 2016, 2014, 2013: EEB116 Conservation Biology
 - 2013: EEB100L Ecology & Behavior Lab
-- 2013: LS15 Life, Concepts & Issues
+- 2013: LS15 Life, Concepts & Issues (for non-life science majors)
 - 2012: EEB120 Evolution
 
 #### Guest Lectures
