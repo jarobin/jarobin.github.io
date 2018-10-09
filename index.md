@@ -1,8 +1,3 @@
----
-layout: default
-title: Jacqueline A. Robinson, PhD
----
-
 ## Welcome!
 
 I am an evolutionary geneticist studying deleterious variation in non-human species through analysis of whole genome sequences.
