@@ -3,7 +3,8 @@ body { margin: 40px auto; width: 70%; font-family: 'Arial', 'Helvetica', 'Sans-S
 a { text-decoration: none; color: #666; }
 a:hover { text-decoration: underline; }
 
-p, ul { font-size: 100%; line-height: 125%; color: #666; }
+p { font-size: 100%; line-height: 125%; color: #000; }
+ul { font-size: 100%; line-height: 125%; color: #666; }
 
 h1, h2, h3, h4 {font-family: 'Arial', 'Helvetica', 'Sans-Serif'; }
 h1 { font-size: 200%;  }
