@@ -23,8 +23,8 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 ### Funding and Awards
 - 2017: Scherbaum Award for Distinguished Research by a Graduate Student, UCLA Department of Ecology & Evolutionary Biology
-- 2016: UCLA Department of Ecology & Evolutionary Biology Graduate Research Fellowship
-- 2016: UCLA Department of Ecology & Evolutionary Biology Travel Grant
+- 2016: Graduate Research Fellowship, UCLA Department of Ecology & Evolutionary Biology
+- 2016: Travel Grant, UCLA Department of Ecology & Evolutionary Biology 
 - 2014, 2011: Edwin W. Pauley Fellowship, UCLA
 
 
