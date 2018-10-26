@@ -1,3 +1,7 @@
+---
+title: Jacqueline A. Robinson, PhD
+---
+
 ## Publications
 
 **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. Current Biology (in press). [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
