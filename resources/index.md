@@ -1,3 +1,7 @@
+---
+title: Jacqueline A. Robinson, PhD
+---
+
 ## Resources
 
 ### Sequence data
