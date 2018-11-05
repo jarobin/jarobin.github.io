@@ -10,7 +10,7 @@ Populations that are small and isolated face an elevated risk of extinction, par
 
 1. **Robinson, J.A.**, Ortega Del-Vecchyo, D., Fan, Z., Kim, B.Y., vonHoldt, B.M., Marsden, C.D., Lohmueller, K.E., and Wayne, R.K., 2016. Genomic flatlining in the endangered island fox. Current Biology 26, 1183–1189. [doi:10.1016/j.cub.2016.02.062](https://doi.org/10.1016/j.cub.2016.02.062)
 
-2. **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. Current Biology (in press). [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
+2. **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. Current Biology 28, 3487–3494. [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
 
 Featured coverage: [NY Times](https://www.nytimes.com/2016/04/26/science/channel-island-foxes-least-genetic-diversity.html), [Scientific American](http://blogs.scientificamerican.com/extinction-countdown/island-fox-genetics), [Why Evolution Is True](https://whyevolutionistrue.wordpress.com/2016/04/28/tiny-foxes-on-the-channel-islands-lack-not-only-mass-but-also-genetic-variation-and-fear-of-humans), [The Molecular Ecologist](https://www.molecularecologist.com/2016/05/what-does-the-island-fox-say/), [The Science Explorer](http://thescienceexplorer.com/nature/tiny-island-foxes-are-treading-shallow-gene-pool)
 
