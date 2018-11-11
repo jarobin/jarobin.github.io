@@ -42,6 +42,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 ### Presentations
 #### Platform
+- 2018: UC Conservation Genomics Consortium Meeting, Pacific Grove, CA
 - 2017: Society for Molecular Biology and Evolution Meeting, Austin, TX
 - 2017: Evolution Meeting, Portland, OR
 - 2016: Island Fox Conservation Working Group Meeting, Santa Barbara, CA
@@ -56,7 +57,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Outreach and Service
-- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): Nature Ecology & Evolution, Genome Biology and Evolution, Current Biology, Molecular Ecology
+- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): Molecular Biology and Evolution, Nature Ecology & Evolution, Genome Biology and Evolution, Current Biology, Molecular Ecology
 - 2018: GENETICS Peer Review Training Program, participant ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, guest presenter
 - 2017: Intel International Science and Engineering Fair, bioinformatics judge
