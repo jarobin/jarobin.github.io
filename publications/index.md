@@ -4,6 +4,8 @@ title: Jacqueline A. Robinson, PhD
 
 ## Publications
 
+Hedrick, P.W., **Robinson, J.A.**, Peterson, R.O. and Vucetich, J.A., 2019. Genetics and extinction and the example of Isle Royale wolves. Animal Conservation. [doi:10.1111/acv.12479](https://doi.org/10.1111/acv.12479)
+
 **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. Current Biology 28, 3487–3494. [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
 
 vonHoldt, B.M., Cahill, J., Fan, Z., Gronau, I., **Robinson, J.A.**, Pollinger, J.P., Shapiro, B., Wall, J.D., Wayne, R.K., 2016. Whole genome sequence analysis shows two endemic species of North American wolf are admixtures of the coyote and gray wolf. Science Advances, 2(7), e1501714. [doi:10.1126/sciadv.1501714](https://doi.org/10.1126/sciadv.1501714)
