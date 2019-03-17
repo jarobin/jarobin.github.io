@@ -6,6 +6,10 @@ title: Jacqueline A. Robinson, PhD
 
 Hedrick, P.W., **Robinson, J.A.**, Peterson, R.O. and Vucetich, J.A., 2019. Genetics and extinction and the example of Isle Royale wolves. *Animal Conservation*. [doi:10.1111/acv.12479](https://doi.org/10.1111/acv.12479)
 
+**Robinson, J.A.**, Birnbaum, S., Newman, D.E., Chan, J., Glenn, J.P., Cox, L.A. and Wall, J.D., 2018. Analysis of 100 high coverage genomes from a pedigreed captive baboon colony. *bioRxiv*, 506782. [doi:10.1101/506782](https://doi.org/10.1101/506782)
+
+**Robinson, J.A.**, Räikkönen, J., Vucetich, L.M., Vucetich, J.A., Peterson, R.O., Lohmueller, K.E. and Wayne, R.K., 2018. Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction. *bioRxiv*, 440511. [doi:10.1101/440511](https://doi.org/10.1101/440511)
+
 **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. *Current Biology* 28, 3487–3494. [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
 
 vonHoldt, B.M., Cahill, J., Fan, Z., Gronau, I., **Robinson, J.A.**, Pollinger, J.P., Shapiro, B., Wall, J.D., Wayne, R.K., 2016. Whole genome sequence analysis shows two endemic species of North American wolf are admixtures of the coyote and gray wolf. *Science Advances* 2, e1501714. [doi:10.1126/sciadv.1501714](https://doi.org/10.1126/sciadv.1501714)
