@@ -5,9 +5,10 @@ title: Jacqueline A. Robinson, PhD
 ## CV
 
 [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5556-815X) Jacqueline A. Robinson, PhD  
-Postdoctoral Scholar  
+Postdoctoral Scholar
 Institute for Human Genetics  
-University of California, San Francisco
+University of California, San Francisco  
+Advisor: Dr. Jeffrey D. Wall
 
 
 ### Education
@@ -22,9 +23,9 @@ University of Southern California
 ### Publications
 Hedrick, P.W., **Robinson, J.A.**, Peterson, R.O. and Vucetich, J.A., 2019. Genetics and extinction and the example of Isle Royale wolves. *Animal Conservation*. [doi:10.1111/acv.12479](https://doi.org/10.1111/acv.12479)
 
-**Robinson, J.A.**, Birnbaum, S., Newman, D.E., Chan, J., Glenn, J.P., Cox, L.A. and Wall, J.D., 2018. Analysis of 100 high coverage genomes from a pedigreed captive baboon colony. *bioRxiv*, 506782. [doi:10.1101/506782](https://doi.org/10.1101/506782)
+**Robinson, J.A.**, Räikkönen, J., Vucetich, L.M., Vucetich, J.A., Peterson, R.O., Lohmueller, K.E. and Wayne, R.K., 2019. Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction. *Science Advances* 5, eaau0757. [doi:10.1126/sciadv.aau0757](https://doi.org/10.1126/sciadv.aau0757)
 
-**Robinson, J.A.**, Räikkönen, J., Vucetich, L.M., Vucetich, J.A., Peterson, R.O., Lohmueller, K.E. and Wayne, R.K., 2018. Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction. *bioRxiv*, 440511. [doi:10.1101/440511](https://doi.org/10.1101/440511)
+**Robinson, J.A.**, Birnbaum, S., Newman, D.E., Chan, J., Glenn, J.P., Cox, L.A. and Wall, J.D., 2019. Analysis of 100 high coverage genomes from a pedigreed captive baboon colony. *Genome Research*, 29, 848-856. [doi:10.1101/gr.247122.118](https://doi.org/10.1101/gr.247122.118)
 
 **Robinson, J.A.**, Brown, C., Kim, B.Y., Lohmueller, K.E., and Wayne, R.K., 2018. Purging of strongly deleterious mutations explains long-term persistence and absence of inbreeding depression in island foxes. *Current Biology* 28, 3487–3494. [doi:10.1016/j.cub.2018.08.066](https://doi.org/10.1016/j.cub.2018.08.066)
 
@@ -64,7 +65,8 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Outreach and Service
-- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): Current Biology, Genome Biology and Evolution, Journal of Heredity, Molecular Biology and Evolution, Molecular Ecology, Nature Ecology & Evolution
+- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Ecology & Evolution*
+- 2019: San Francisco State University Student Project Showcase, judge
 - 2018: GENETICS Peer Review Training Program, participant ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, guest presenter
 - 2017: Intel International Science and Engineering Fair, bioinformatics judge
