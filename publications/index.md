@@ -4,6 +4,8 @@ title: Jacqueline A. Robinson, PhD
 
 ## Publications
 
+Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2019. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *bioRxiv*, 678771. [doi:10.1101/678771](https://doi.org/10.1101/678771)
+
 Hedrick, P.W., **Robinson, J.A.**, Peterson, R.O. and Vucetich, J.A., 2019. Genetics and extinction and the example of Isle Royale wolves. *Animal Conservation* 22, 302–309. [doi:10.1111/acv.12479](https://doi.org/10.1111/acv.12479)
 
 **Robinson, J.A.**, Räikkönen, J., Vucetich, L.M., Vucetich, J.A., Peterson, R.O., Lohmueller, K.E. and Wayne, R.K., 2019. Genomic signatures of extensive inbreeding in Isle Royale wolves, a population on the threshold of extinction. *Science Advances* 5, eaau0757. [doi:10.1126/sciadv.aau0757](https://doi.org/10.1126/sciadv.aau0757)
