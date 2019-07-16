@@ -69,7 +69,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Outreach and Service
-- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Ecology & Evolution*
+- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*
 - 2019: San Francisco State University Student Project Showcase, graduate life sciences judge
 - 2018: GENETICS Peer Review Training Program, trainee ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, guest presenter
