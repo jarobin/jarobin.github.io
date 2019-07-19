@@ -5,7 +5,7 @@ title: Jacqueline A. Robinson, PhD
 ## CV
 
 [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5556-815X) Jacqueline A. Robinson, PhD  
-Postdoctoral Scholar
+Postdoctoral Scholar  
 Institute for Human Genetics  
 University of California, San Francisco  
 Advisor: Dr. Jeffrey D. Wall
