@@ -21,7 +21,13 @@ University of Southern California
 
 
 ### Publications
-Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2019. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *bioRxiv*, 678771. [doi:10.1101/678771](https://doi.org/10.1101/678771)
+**Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., and Wall, J.D., 2021. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. *Current Biology*. [doi:10.1016/j.cub.2021.04.035](https://doi.org/10.1016/j.cub.2021.04.035)
+
+Morin, P.A., Archer, F.I., Avila, C.D., Balacco, J.R., Bukhman, Y.V., Chow, W., Fedrigo, O., Formenti, G., Fronczek, J.A., Fungtammasan, A., Gulland, F.M.D., Haase, B., Heide‐Jorgensen, M.P., Houck, M.L., Howe, K., Misuraca, A.C., Mountcastle, J., Musser, W., Paez, S., Pelan, S., Phillippy, A., Rhie, A., **Robinson, J.**, Rojas‐Bracho, L., Rowles, T.K., Ryder, O.A., Smith, C.R., Stevenson, S., Taylor, B.L., Teilmann, J., Torrance, J., Wells, R.S., Westgate, A.J., and Jarvis, E.D., 2021. Reference genome and demographic history of the most endangered marine mammal, the vaquita. *Molecular Ecology Resources* 21, 1008-1020. [doi:10.1111/1755-0998.13284](https://doi.org/10.1111/1755-0998.13284)
+
+Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Vilgalys, T.P., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2019. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *GigaScience* 9, giaa134. [doi:10.1093/gigascience/giaa134](https://doi.org/10.1093/gigascience/giaa134)
+
+Heppenheimer, E., Brzeski, K.E., Hinton, J.W., Chamberlain, M.J., **Robinson, J.**, Wayne, R.K., and vonHoldt, B.M., 2020. A genome-wide perspective on the persistence of red wolf ancestry in southeastern canids. *Journal of Heredity* 111, 277-286. [doi:10.1093/jhered/esaa006](https://doi.org/10.1093/jhered/esaa006)
 
 Hedrick, P.W., **Robinson, J.A.**, Peterson, R.O. and Vucetich, J.A., 2019. Genetics and extinction and the example of Isle Royale wolves. *Animal Conservation* 22, 302–309. [doi:10.1111/acv.12479](https://doi.org/10.1111/acv.12479)
 
@@ -43,6 +49,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Funding and Awards
+- 2020: Young Investigator Award for conference registration and travel, Society for Molecular Biology and Evolution (meeting canceled due to Covid-19 pandemic)
 - 2017: Scherbaum Award for Distinguished Research by a Graduate Student, UCLA Department of Ecology & Evolutionary Biology
 - 2016: Graduate Research Fellowship, UCLA Department of Ecology & Evolutionary Biology
 - 2016: Travel Grant, UCLA Department of Ecology & Evolutionary Biology 
@@ -69,7 +76,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Outreach and Service
-- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*
+- Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *Proceedings of the National Academy of Sciences*
 - 2019: San Francisco State University Student Project Showcase, graduate life sciences judge
 - 2018: GENETICS Peer Review Training Program, trainee ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, guest presenter
