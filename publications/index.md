@@ -8,7 +8,7 @@ title: Jacqueline A. Robinson, PhD
 
 Morin, P.A., Archer, F.I., Avila, C.D., Balacco, J.R., Bukhman, Y.V., Chow, W., Fedrigo, O., Formenti, G., Fronczek, J.A., Fungtammasan, A., Gulland, F.M.D., Haase, B., Heide‐Jorgensen, M.P., Houck, M.L., Howe, K., Misuraca, A.C., Mountcastle, J., Musser, W., Paez, S., Pelan, S., Phillippy, A., Rhie, A., **Robinson, J.**, Rojas‐Bracho, L., Rowles, T.K., Ryder, O.A., Smith, C.R., Stevenson, S., Taylor, B.L., Teilmann, J., Torrance, J., Wells, R.S., Westgate, A.J., and Jarvis, E.D., 2021. Reference genome and demographic history of the most endangered marine mammal, the vaquita. *Molecular Ecology Resources* 21, 1008-1020. [doi:10.1111/1755-0998.13284](https://doi.org/10.1111/1755-0998.13284)
 
-Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Vilgalys, T.P., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2019. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *GigaScience* 9, giaa134. [doi:10.1093/gigascience/giaa134](https://doi.org/10.1093/gigascience/giaa134)
+Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Vilgalys, T.P., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2020. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *GigaScience* 9, giaa134. [doi:10.1093/gigascience/giaa134](https://doi.org/10.1093/gigascience/giaa134)
 
 Heppenheimer, E., Brzeski, K.E., Hinton, J.W., Chamberlain, M.J., **Robinson, J.**, Wayne, R.K., and vonHoldt, B.M., 2020. A genome-wide perspective on the persistence of red wolf ancestry in southeastern canids. *Journal of Heredity* 111, 277-286. [doi:10.1093/jhered/esaa006](https://doi.org/10.1093/jhered/esaa006)
 
