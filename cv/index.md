@@ -75,7 +75,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 - 2016: Southern California Evolutionary Genetics & Genomics Meeting, Los Angeles, CA
 
 
-### Outreach and Service
+### Service and Outreach
 - Invited reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *Proceedings of the National Academy of Sciences*
 - 2019: San Francisco State University Student Project Showcase, graduate life sciences judge
 - 2018: GENETICS Peer Review Training Program, trainee ([link](http://www.genetics.org/content/early-career-reviewers))
