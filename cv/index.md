@@ -49,7 +49,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Funding and Awards
-- 2020: Young Investigator Award for conference registration and travel, Society for Molecular Biology and Evolution (meeting canceled due to Covid-19 pandemic)
+- 2020: Young Investigator Travel Award, Society for Molecular Biology and Evolution (*meeting canceled due to Covid-19 pandemic*)
 - 2017: Scherbaum Award for Distinguished Research by a Graduate Student, UCLA Department of Ecology & Evolutionary Biology
 - 2016: Graduate Research Fellowship, UCLA Department of Ecology & Evolutionary Biology
 - 2016: Travel Grant, UCLA Department of Ecology & Evolutionary Biology 
@@ -58,8 +58,8 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 ### Presentations
 #### Oral
-- 2021: Society for Molecular Biology and Evolution Meeting (virtual)
-- 2021: Evolution Meeting (virtual)
+- 2021: Society for Molecular Biology and Evolution Meeting, *virtual*
+- 2021: Evolution Meeting, *virtual*
 - 2019: Evolution Meeting, Providence, RI
 - 2019: Bay Area Population Genetics Meeting, Stanford, CA
 - 2019: UC Berkeley Center for Theoretical Evolutionary Genomics Seminar, Berkeley, CA
