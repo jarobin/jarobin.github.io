@@ -57,7 +57,9 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 
 
 ### Presentations
-#### Platform
+#### Oral
+- 2021: Society for Molecular Biology and Evolution Meeting (virtual)
+- 2021: Evolution Meeting (virtual)
 - 2019: Evolution Meeting, Providence, RI
 - 2019: Bay Area Population Genetics Meeting, Stanford, CA
 - 2019: UC Berkeley Center for Theoretical Evolutionary Genomics Seminar, Berkeley, CA
@@ -66,12 +68,11 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O. and Jaco
 - 2017: Evolution Meeting, Portland, OR
 - 2016: Island Fox Conservation Working Group Meeting, Santa Barbara, CA
 - 2016: Plant & Animal Genome Conference, San Diego, CA
-- 2016, 2014: EcoEvoPub Seminar, UCLA
 
 #### Poster
 - 2018: Population, Evolutionary, and Quantitative Genetics Meeting, Madison, WI
 - 2016: Northern California Computational Biology Student Symposium, Berkeley, CA
-- 2016: Annual Biology Research Symposium, UCLA
+- 2016: ULCA Annual Biology Research Symposium, Los Angeles, CA
 - 2016: Southern California Evolutionary Genetics & Genomics Meeting, Los Angeles, CA
 
 
