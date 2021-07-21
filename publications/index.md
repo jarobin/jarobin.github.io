@@ -4,7 +4,9 @@ title: Jacqueline A. Robinson, PhD
 
 ## Publications
 
-**Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., and Wall, J.D., 2021. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. *Current Biology*. [doi:10.1016/j.cub.2021.04.035](https://doi.org/10.1016/j.cub.2021.04.035)
+Wall, J., **Robinson, J.A.**, and Cox, L.A., 2021. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. bioRxiv. [doi:10.1101/2021.07.10.451667](https://doi.org/10.1101/2021.07.10.451667)
+
+**Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., and Wall, J.D., 2021. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. *Current Biology* 31, 2939-2946. [doi:10.1016/j.cub.2021.04.035](https://doi.org/10.1016/j.cub.2021.04.035)
 
 Morin, P.A., Archer, F.I., Avila, C.D., Balacco, J.R., Bukhman, Y.V., Chow, W., Fedrigo, O., Formenti, G., Fronczek, J.A., Fungtammasan, A., Gulland, F.M.D., Haase, B., Heide‐Jorgensen, M.P., Houck, M.L., Howe, K., Misuraca, A.C., Mountcastle, J., Musser, W., Paez, S., Pelan, S., Phillippy, A., Rhie, A., **Robinson, J.**, Rojas‐Bracho, L., Rowles, T.K., Ryder, O.A., Smith, C.R., Stevenson, S., Taylor, B.L., Teilmann, J., Torrance, J., Wells, R.S., Westgate, A.J., and Jarvis, E.D., 2021. Reference genome and demographic history of the most endangered marine mammal, the vaquita. *Molecular Ecology Resources* 21, 1008-1020. [doi:10.1111/1755-0998.13284](https://doi.org/10.1111/1755-0998.13284)
 
