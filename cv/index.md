@@ -21,7 +21,7 @@ University of Southern California
 
 
 ### Publications
-Wall, J., **Robinson, J.A.**, and Cox, L.A., 2021. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. bioRxiv. [doi:10.1101/2021.07.10.451667](https://doi.org/10.1101/2021.07.10.451667)
+Wall, J., **Robinson, J.A.**, and Cox, L.A., 2021. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *bioRxiv*. [doi:10.1101/2021.07.10.451667](https://doi.org/10.1101/2021.07.10.451667)
 
 **Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., and Wall, J.D., 2021. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. *Current Biology* 31, 2939-2946. [doi:10.1016/j.cub.2021.04.035](https://doi.org/10.1016/j.cub.2021.04.035)
 
