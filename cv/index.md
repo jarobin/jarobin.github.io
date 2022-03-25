@@ -64,7 +64,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 #### Oral
 \*Invited
 
-- 2021: \*EMBO Workshop: The Evolution of Animal Genomes, *virtual*
+- 2021: \*The Evolution of Animal Genomes EMBO Workshop, DNA Zoo Satellite Meeting, *virtual*
 - 2021: Society for Molecular Biology and Evolution Meeting, *virtual*
 - 2021: Evolution Meeting, *virtual*
 - 2019: Evolution Meeting, Providence, RI
