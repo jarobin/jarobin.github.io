@@ -60,14 +60,6 @@ Koepfli, K.P.\*, Pollinger, J.\*, Godinho, R., **Robinson, J.**, Lea, A., Hendri
 Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs, D.K., 2014. Attempted DNA extraction from a Rancho La Brea Columbian mammoth (*Mammuthus columbi*): prospects for ancient DNA from asphalt deposits. *Ecology and Evolution* 4, 329-336. [doi:10.1002/ece3.928](https://doi.org/10.1002/ece3.928)
 
 
-### Funding and Awards
-- 2020: Young Investigator Travel Award, Society for Molecular Biology and Evolution (*meeting canceled due to Covid-19 pandemic*)
-- 2017: Scherbaum Award for Distinguished Research by a Graduate Student, UCLA Department of Ecology & Evolutionary Biology
-- 2016: Graduate Research Fellowship, UCLA Department of Ecology & Evolutionary Biology
-- 2016: Travel Grant, UCLA Department of Ecology & Evolutionary Biology 
-- 2014, 2011: Edwin W. Pauley Fellowship, UCLA
-
-
 ### Presentations
 #### Oral
 \*Invited
@@ -89,6 +81,14 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2016: Northern California Computational Biology Student Symposium, Berkeley, CA
 - 2016: ULCA Annual Biology Research Symposium, Los Angeles, CA
 - 2016: Southern California Evolutionary Genetics & Genomics Meeting, Los Angeles, CA
+
+
+### Funding and Awards
+- 2020: Young Investigator Travel Award, Society for Molecular Biology and Evolution (*meeting canceled due to Covid-19 pandemic*)
+- 2017: Scherbaum Award for Distinguished Research by a Graduate Student, UCLA Department of Ecology & Evolutionary Biology
+- 2016: Graduate Research Fellowship, UCLA Department of Ecology & Evolutionary Biology
+- 2016: Travel Grant, UCLA Department of Ecology & Evolutionary Biology 
+- 2014, 2011: Edwin W. Pauley Fellowship, UCLA
 
 
 ### Service and Outreach
