@@ -20,14 +20,14 @@ Advisor: Dr. Robert K. Wayne
 University of Southern California
 
 
-### Publications
+## Publications
 \*Contributed equally
 
-**Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* (*in press*).
+**Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://doi.org/10.1126/science.abm1742)
 
-**Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., Wall, J.D., 2022. Response to Bakker et al. *Current Biology* (*in press*).
+**Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., Wall, J.D., 2022. Response to Bakker et al. *Current Biology* 32, R358-R359. [doi:10.1016/j.cub.2022.03.049](https://doi.org/10.1016/j.cub.2022.03.049)
 
-Wall, J., **Robinson, J.A.**, Cox, L.A., 2021. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *bioRxiv*. [doi:10.1101/2021.07.10.451667](https://doi.org/10.1101/2021.07.10.451667)
+Wall, J., **Robinson, J.A.**, Cox, L.A., 2022. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *Genome Biology and Evolution* 14, evac040. [doi:10.1093/gbe/evac040](https://doi.org/10.1093/gbe/evac040)
 
 Vilgalys, T.P.\*, Fogel, A.S.\*, Mututua, R.S., Warutere, J.K., Siodi, L., Anderson, J.A., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2021. Selection against admixture and gene regulatory divergence in a long-term primate field study. *bioRxiv*. [10.1101/2021.08.19.456711](https://doi.org/10.1101/2021.08.19.456711)
 
@@ -92,8 +92,9 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 
 
 ### Service and Outreach
-- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *Proceedings of the National Academy of Sciences*
+- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*
 - Invited grant reviewer: National Science Foundation Division of Environmental Biology
+- 2022: Bay Area Science Festival Discovery Day, Volunteer
 - 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
 - 2018: GENETICS Peer Review Training Program, Trainee ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, Guest Presenter
@@ -109,7 +110,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2013: LS15 Life, Concepts & Issues (for non-life science majors), UCLA
 - 2012: EEB120 Evolution, UCLA
 
-#### Ad hoc lectures
+#### Lectures
 - 2022: Health and Society, "Genetics of Common Disease", UCSF
 - 2017: GE Cluster 70CW, “Loss of diversity and gain of deleterious mutations in Channel Island foxes”, UCLA
 - 2017: UCLA/La Kretz Workshop in Conservation Genomics, “Application of PSMC to a non-model species”, UCLA
