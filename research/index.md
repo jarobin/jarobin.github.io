@@ -12,6 +12,8 @@ The vaquita porpoise is the world's smallest cetacean and, with ~10 surviving in
 
 **Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://doi.org/10.1126/science.abm1742)
 
+\*contributed equally
+
 Featured coverage: [NY Times](https://www.nytimes.com/interactive/2022/05/05/climate/engandered-vaquitas-extinction-inbreeding.html), [BBC](https://www.bbc.com/news/science-environment-61326413), [NPR](https://www.npr.org/2022/05/05/1096842362/scientists-say-endangered-porpoise-isnt-doomed-so-long-as-humans-stop-killing-th), [Reuters](https://www.reuters.com/lifestyle/science/genome-study-offers-hope-diminutive-endangered-porpoise-2022-05-05/), [The Guardian](https://www.theguardian.com/environment/2022/may/05/vaquita-porpoise-could-survive-but-only-if-fishing-stops-immediately), [National Geographic](https://www.nationalgeographic.com/animals/article/vaquita-porpoises-could-genetically-recover-if-fishing-ends), [CBC: Quirks & Quarks](https://www.cbc.ca/listen/live-radio/1-51-quirks-and-quarks/clip/15911036-with-10-left-scientists-tiny-porpoise-survive), [Ars Technica](https://arstechnica.com/science/2022/05/humans-not-genetics-the-biggest-danger-for-the-vaquita/)
 
 ## <a name="CAcondors"></a>California condors
