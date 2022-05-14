@@ -30,9 +30,9 @@ Baboons (genus *Papio*) are social Old World primates that have been extensively
 
 **Robinson, J.A.**, Birnbaum, S., Newman, D.E., Chan, J., Glenn, J.P., Cox, L.A. and Wall, J.D., 2019. Analysis of 100 high coverage genomes from a pedigreed captive baboon colony. *Genome Research* 29, 848-856. [doi:10.1101/gr.247122.118](https://doi.org/10.1101/gr.247122.118)
 
-Wall, J., **Robinson, J.A.**, Cox, L.A., 2022. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *Genome Biology and Evolution* 14, evac040. [doi:10.1093/gbe/evac040](https://doi.org/10.1093/gbe/evac040)
-
 Batra, S.S., Levy-Sakin, M., **Robinson, J.**, Guillory, J., Durinck, S., Vilgalys, T.P., Kwok, P.Y., Cox, L.A., Seshagiri, S., Song, Y.S., and Wall, J.D., 2020. Accurate assembly of the olive baboon (Papio anubis) genome using long-read and Hi-C data. *GigaScience* 9, giaa134. [doi:10.1093/gigascience/giaa134](https://doi.org/10.1093/gigascience/giaa134)
+
+Wall, J., **Robinson, J.A.**, Cox, L.A., 2022. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *Genome Biology and Evolution* 14, evac040. [doi:10.1093/gbe/evac040](https://doi.org/10.1093/gbe/evac040)
 
 ## <a name="IRwolves"></a>Isle Royale wolves
 
