@@ -5,7 +5,7 @@ title: Jacqueline A. Robinson, PhD
 ## Publications
 \*Contributed equally
 
-**Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://doi.org/10.1126/science.abm1742)
+**Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://www.science.org/stoken/author-tokens/ST-482/full)
 
 **Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., Wall, J.D., 2022. Response to Bakker et al. *Current Biology* 32, R358-R359. [doi:10.1016/j.cub.2022.03.049](https://doi.org/10.1016/j.cub.2022.03.049)
 
