@@ -96,10 +96,15 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - Invited grant reviewer: National Science Foundation Division of Environmental Biology
 - 2022: Bay Area Science Festival Discovery Day, Volunteer
 - 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
-- 2018: GENETICS Peer Review Training Program, Trainee ([link](http://www.genetics.org/content/early-career-reviewers))
 - 2018: Lowell High School Science Research Program, Guest Presenter
 - 2017: Intel International Science and Engineering Fair, Bioinformatics Judge
 - 2017: UCLA Department of Ecology & Evolutionary Biology Graduate Research Awards Committee, Member
+
+
+### Additional Training
+- 2022: [Inclusive Research Mentor/Manager Course (TRAIN-UP)](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course), UCSF
+- 2018: [GENETICS Peer Review Training Program](http://www.genetics.org/content/early-career-reviewers)
+- 2018: [Responsible Conduct of Research for Postdoctoral Scholars](https://rcr.ucsf.edu/postdocs-research-staff), UCSF
 
 
 ### Teaching Experience
