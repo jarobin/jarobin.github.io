@@ -92,22 +92,6 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2014, 2011: Edwin W. Pauley Fellowship, UCLA
 
 
-### Service and Outreach
-- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*
-- Invited grant reviewer: National Science Foundation Division of Environmental Biology
-- 2022: Bay Area Science Festival Discovery Day, Volunteer
-- 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
-- 2018: Lowell High School Science Research Program, Guest Presenter
-- 2017: Intel International Science and Engineering Fair, Bioinformatics Judge
-- 2017: UCLA Department of Ecology & Evolutionary Biology Graduate Research Awards Committee, Member
-
-
-### Additional Training
-- 2022: [Inclusive Research Mentor/Manager Course (TRAIN-UP)](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course), UCSF
-- 2018: [GENETICS Peer Review Training Program](http://www.genetics.org/content/early-career-reviewers)
-- 2018: [Responsible Conduct of Research for Postdoctoral Scholars](https://rcr.ucsf.edu/postdocs-research-staff), UCSF
-
-
 ### Teaching Experience
 #### Teaching Assistantships
 - 2016, 2015, 2014: EEB135/235 Population Genetics, UCLA
@@ -124,3 +108,18 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2014: EEB120 Evolution, “Genomics: development of a model system and applications to non-model species”, UCLA
 - 2014: EEB116 Conservation Biology, “Conservation genetics”, UCLA
 
+
+### Service and Outreach
+- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*
+- Invited grant reviewer: National Science Foundation Division of Environmental Biology
+- 2022: Bay Area Science Festival Discovery Day, Volunteer
+- 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
+- 2018: Lowell High School Science Research Program, Guest Presenter
+- 2017: Intel International Science and Engineering Fair, Bioinformatics Judge
+- 2017: UCLA Department of Ecology & Evolutionary Biology Graduate Research Awards Committee, Member
+
+
+### Additional Training
+- 2022: [Inclusive Research Mentor/Manager Course (TRAIN-UP)](https://career.ucsf.edu/phds/academic-careers/TRAIN-UP/course), UCSF
+- 2018: [GENETICS Peer Review Training Program](http://www.genetics.org/content/early-career-reviewers)
+- 2018: [Responsible Conduct of Research for Postdoctoral Scholars](https://rcr.ucsf.edu/postdocs-research-staff), UCSF
