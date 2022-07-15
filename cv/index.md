@@ -112,6 +112,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 ### Service and Outreach
 - Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*
 - Invited grant reviewer: National Science Foundation Division of Environmental Biology
+- 2022: UW Summer Institute in Statistical Genetics: Applications of Population Genetics, Assistant Instructor
 - 2022: Bay Area Science Festival Discovery Day, Volunteer
 - 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
 - 2018: Lowell High School Science Research Program, Guest Presenter
