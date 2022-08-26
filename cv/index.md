@@ -23,13 +23,15 @@ University of Southern California
 ### Publications
 \*Contributed equally
 
+Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2022. Using computational simulations to quantify genetic load and predict extinction risk. *bioRxiv*. [doi:10.1101/2022.08.12.503792](https://doi.org/10.1101/2022.08.12.503792)
+
+Vilgalys, T.P.\*, Fogel, A.S.\*, Anderson, J.A., Mututua, R.S., Warutere, J.K., Siodi, I.L.I., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. *Science* 377, 635-641. [doi:10.1126/science.abm4917](https://doi.org/10.1126/science.abm4917)
+
 **Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://www.science.org/stoken/author-tokens/ST-482/full)
 
 **Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., Wall, J.D., 2022. Response to Bakker et al. *Current Biology* 32, R358-R359. [doi:10.1016/j.cub.2022.03.049](https://doi.org/10.1016/j.cub.2022.03.049)
 
 Wall, J., **Robinson, J.A.**, Cox, L.A., 2022. High-resolution estimates of crossover and noncrossover recombination from a captive baboon colony. *Genome Biology and Evolution* 14, evac040. [doi:10.1093/gbe/evac040](https://doi.org/10.1093/gbe/evac040)
-
-Vilgalys, T.P.\*, Fogel, A.S.\*, Mututua, R.S., Warutere, J.K., Siodi, L., Anderson, J.A., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2021. Selection against admixture and gene regulatory divergence in a long-term primate field study. *bioRxiv*. [10.1101/2021.08.19.456711](https://doi.org/10.1101/2021.08.19.456711)
 
 **Robinson, J.A.**, Bowie, R.C.K., Dudchenko, O., Lieberman Aiden, E., Hendrickson, S.L., Steiner, C.C., Ryder, O.A., Mindell, D.P., Wall, J.D., 2021. Genome-wide diversity in the California condor tracks its prehistoric abundance and decline. *Current Biology* 31, 2939-2946. [doi:10.1016/j.cub.2021.04.035](https://doi.org/10.1016/j.cub.2021.04.035)
 
