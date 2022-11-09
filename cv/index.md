@@ -23,9 +23,11 @@ University of Southern California
 ### Publications
 \*Contributed equally
 
+**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11. [10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
+
 Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2022. Using computational simulations to quantify genetic load and predict extinction risk. *bioRxiv*. [doi:10.1101/2022.08.12.503792](https://doi.org/10.1101/2022.08.12.503792)
 
-Vilgalys, T.P.\*, Fogel, A.S.\*, Anderson, J.A., Mututua, R.S., Warutere, J.K., Siodi, I.L.I., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. *Science* 377, 635-641. [doi:10.1126/science.abm4917](https://doi.org/10.1126/science.abm4917)
+Vilgalys, T.P.\*, Fogel, A.S.\*, Anderson, J.A., Mututua, R.S., Warutere, J.K., Siodi, I.L., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. *Science* 377, 635-641. [doi:10.1126/science.abm4917](https://doi.org/10.1126/science.abm4917)
 
 **Robinson, J.A.**\*, Kyriazis, C.C.\*, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Lohmueller, K.E., Taylor, B.L., Morin, P.A., 2022. The critically endangered vaquita is not doomed to extinction by inbreeding depression. *Science* 376, 635-639. [doi:10.1126/science.abm1742](https://www.science.org/stoken/author-tokens/ST-482/full)
 
