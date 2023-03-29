@@ -8,7 +8,7 @@ title: Jacqueline A. Robinson, PhD
 Postdoctoral Scholar  
 Institute for Human Genetics  
 University of California, San Francisco  
-Advisors: Dr. Jeffrey D. Wall, Dr. Dara G. Torgerson
+Advisors: Dr. Jeffrey D. Wall, Dr. Dara G. Torgerson, Dr. Ryan D. Hernandez
 
 
 ### Education
@@ -23,7 +23,13 @@ University of Southern California
 ### Publications
 \*Contributed equally
 
-**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11. [10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
+**Robinson, J.A.**, 2023. Inbreeding threatens iconic killer whales. *Nature Ecology & Evolution*. [doi:10.1038/s41559-023-02024-w](https://doi.org/10.1038/s41559-023-02024-w)
+
+Kyriazis, C.C., **Robinson, J.A.**, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Taylor, B.L., Lohmueller, K.E., Morin, P.A., 2023. Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita. *Heredity*. [doi:10.1038/s41437-023-00608-7](https://doi.org/10.1038/s41437-023-00608-7)
+
+vonHoldt, B.M., Schweizer, R.M., Stahler, D., **Robinson, J.A.**, Pires, D., Koepfli, K.P., 2023. In Memoriam: Robert K. Wayne, a pioneer of evolutionary genomics for wildlife with an emphasis on endangered species. *Journal of Heredity*, esad005. [doi:10.1093/jhered/esad005](https://doi.org/10.1093/jhered/esad005)
+
+**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
 
 Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2022. Using computational simulations to quantify genetic load and predict extinction risk. *bioRxiv*. [doi:10.1101/2022.08.12.503792](https://doi.org/10.1101/2022.08.12.503792)
 
@@ -114,8 +120,8 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 
 
 ### Service and Outreach
-- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*
-- Invited grant reviewer: National Science Foundation Division of Environmental Biology
+- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*, *Trends in Ecology & Evolution*
+- Invited grant reviewer: National Science Foundation Division of Environmental Biology, The Leakey Foundation
 - 2022: UW Summer Institute in Statistical Genetics: Applications of Population Genetics, Assistant Instructor
 - 2022: Bay Area Science Festival Discovery Day, Volunteer
 - 2019: San Francisco State University Student Project Showcase, Graduate Life Sciences Judge
