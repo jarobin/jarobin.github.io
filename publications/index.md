@@ -5,7 +5,13 @@ title: Jacqueline A. Robinson, PhD
 ## Publications
 \*Contributed equally
 
-**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11. [10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
+**Robinson, J.A.**, 2023. Inbreeding threatens iconic killer whales. *Nature Ecology & Evolution*. [doi:10.1038/s41559-023-02024-w](https://doi.org/10.1038/s41559-023-02024-w)
+
+Kyriazis, C.C., **Robinson, J.A.**, Nigenda-Morales, S.F., Beichman, A.C., Rojas-Bracho, L., Robertson, K.M., Fontaine, M.C., Wayne, R.K., Taylor, B.L., Lohmueller, K.E., Morin, P.A., 2023. Models based on best-available information support a low inbreeding load and potential for recovery in the vaquita. *Heredity*. [doi:10.1038/s41437-023-00608-7](https://doi.org/10.1038/s41437-023-00608-7)
+
+vonHoldt, B.M., Schweizer, R.M., Stahler, D., **Robinson, J.A.**, Pires, D., Koepfli, K.P., 2023. In Memoriam: Robert K. Wayne, a pioneer of evolutionary genomics for wildlife with an emphasis on endangered species. *Journal of Heredity*, esad005. [doi:10.1093/jhered/esad005](https://doi.org/10.1093/jhered/esad005)
+
+**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
 
 Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2022. Using computational simulations to quantify genetic load and predict extinction risk. *bioRxiv*. [doi:10.1101/2022.08.12.503792](https://doi.org/10.1101/2022.08.12.503792)
 
