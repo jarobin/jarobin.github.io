@@ -116,7 +116,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2012: EEB120 Evolution, UCLA
 
 #### Guest Lecturer
-- 2023: Introduction to Evolutionary Biology, "Conservation genomics: genetic diversity and inbreeding", HSTalks (*coming soon*)
+- 2023: Introduction to Evolutionary Biology, "Conservation genomics: genetic diversity and inbreeding", [HSTalks](https://hstalks.com/bs/p/1071/) (*coming soon*)
 - 2022: Health and Society, "Genetics of Common Disease", UCSF
 - 2017: GE Cluster 70CW, “Loss of diversity and gain of deleterious mutations in Channel Island foxes”, UCLA
 - 2017: UCLA/La Kretz Workshop in Conservation Genomics, “Application of PSMC to a non-model species”, UCLA
