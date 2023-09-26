@@ -37,7 +37,7 @@ Kyriazis, C.C., **Robinson, J.A.**, Nigenda-Morales, S.F., Beichman, A.C., Rojas
 
 vonHoldt, B.M., Schweizer, R.M., Stahler, D., **Robinson, J.A.**, Pires, D., Koepfli, K.P., 2023. In Memoriam: Robert K. Wayne, a pioneer of evolutionary genomics for wildlife with an emphasis on endangered species. *Journal of Heredity*, esad005. [doi:10.1093/jhered/esad005](https://doi.org/10.1093/jhered/esad005)
 
-**Robinson, J.A.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
+**Robinson, J.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
 
 Vilgalys, T.P.\*, Fogel, A.S.\*, Anderson, J.A., Mututua, R.S., Warutere, J.K., Siodi, I.L., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. *Science* 377, 635-641. [doi:10.1126/science.abm4917](https://doi.org/10.1126/science.abm4917)
 
@@ -128,7 +128,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 
 
 ### Service and Outreach
-- Invited journal reviewer ([Publons profile](https://publons.com/a/1206609/)): *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*, *Science*, *Trends in Ecology & Evolution*
+- Invited journal reviewer: *American Journal of Human Genetics*, *Communications Biology*, *Current Biology*, *Evolutionary Applications*, *Genetics*, *Genome Biology and Evolution*, *iScience*, *Journal of Heredity*, *Molecular Biology and Evolution*, *Molecular Ecology*, *Nature Communications*, *Nature Ecology & Evolution*, *PLOS ONE*, *Proceedings of the National Academy of Sciences*, *Science*, *Trends in Ecology & Evolution*
 - Invited grant reviewer: National Science Foundation Division of Environmental Biology, The Leakey Foundation
 - 2022: UW Summer Institute in Statistical Genetics: Applications of Population Genetics, Assistant Instructor
 - 2022: Bay Area Science Festival Discovery Day, Volunteer
