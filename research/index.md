@@ -4,6 +4,8 @@ title: Jacqueline A. Robinson, PhD
 
 ## Research
 
+I use whole genome sequencing data to study the evolutionary history and fitness of small isolated populations. Small populations face an elevated risk of extinction, in part due to genetic factors such as inbreeding depression, the accumulation of deleterious alleles over time, and reduced adaptive potential. I am particularly interested in exploring how patterns of genome-wide variation can illuminate the **evolutionary history** of populations and species, shed light on their **genetic health**, and inform **predictive models** to forecast population viability or extinction risk.
+
 Jump to: [Vaquitas](#Vaquitas), [California condors](#CAcondors), [Baboons](#Baboons), [Isle Royale wolves](#IRwolves), [Channel Island foxes](#CIfoxes)
 
 ## <a name="Vaquitas"></a>Vaquitas
