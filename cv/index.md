@@ -23,11 +23,11 @@ University of Southern California
 ### Publications
 \*Contributed equally
 
+Beichman, A.C., **Robinson, J.**, Lin, M., Moreno-Estrada, A., Nigenda-Morales, S., Harris, K., 2023. Evolution of the mutation spectrum across a mammalian phylogeny. *Molecular Biology and Evolution* 40, msad213. [doi:10.1093/molbev/msad213](https://doi.org/10.1093/molbev/msad213)
+
 Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2023. Using computational simulations to model deleterious variation and genetic load in natural populations. *The American Naturalist*. [doi:10.1086/726736](https://doi.org/10.1086/726736)
 
 Nigenda-Morales, S.F.\*, Lin, M.\*, Nuñez-Valencia, P.G., Kyriazis, C.C., Beichman, A.C., **Robinson, J.A.**, Ragsdale, A.P., Urbán R., J., Archer, F.I., Viloria-Gómora, L., Pérez-Álvarez, M.J., Poulin, E., Lohmueller, K.E., Moreno-Estrada, A., Wayne, R.K., 2023. The genomic footprint of whaling and isolation in fin whale populations. *Nature Communications* 14, 5465. [doi:10.1038/s41467-023-40052-z](https://doi.org/10.1038/s41467-023-40052-z)
-
-Beichman, A.C., **Robinson, J.A.**, Lin, M., Moreno-Estrada, A., Nigenda-Morales, S., Harris, K., 2023. Evolution of the mutation spectrum across a mammalian phylogeny. *bioRxiv*. [10.1101/2023.05.31.543114](https://doi.org/10.1101/2023.05.31.543114)
 
 Wall, J.D.\*, Sathirapongsasuti, J.F.\*, Gupta, R.\*, Rasheed, A.\*, Venkatesan, R.\*, Belsare, S., Menon, R., Phalke, S., Mittal, A., Fang, J., Tanneeru, D., Deshmukh, M., Bassi, A., **Robinson, J.**, Chaudhary, R., Murugan, S., ul-Asar, Z., Saleem, I., Ishtiaq, U., Fatima, A., Sheikh, S.S., Hameed, S., Ishaq, M., Rasheed, S.Z., Memon, F.R., Jalal, A., Abbas, S., Frossard, P., Fuchsberger, C., Forer, L., Schoenherr, S., Bei, Q., Bhangale, T., Tom, J., Gadde, S.G.K., B.V., P., Naik, N.K., Wang, M., Kwok, P.Y., Khera, A.V., Lakshmi, B.R., Butterworth, A.S., Chowdhury, R., Danesh, J., di Angelantonio, E., Naheed, A., Goyal, V., Kandadai, R.M., Kumar, H., Borgohain, R., Mukherjee, A., Wadia, P.M., Yadav, R., Desai, S., Kumar, N., Biswas, A., Pal, P.K., Muthane, U.B., Das, S.K., Ramprasad, V.L., Kukkle, P.L., Seshagiri, S., Kathiresan, S., Ghosh, A., Mohan, V.\*, Saleheen, D.\*, Stawiski, E.W.\*, Peterson, A.S.\*, 2023. South Asian medical cohorts reveal strong founder effects and high rates of homozygosity. *Nature Communications* 14, 3377. [doi:10.1038/s41467-023-38766-1](https://doi.org/10.1038/s41467-023-38766-1)
 
@@ -37,7 +37,7 @@ Kyriazis, C.C., **Robinson, J.A.**, Nigenda-Morales, S.F., Beichman, A.C., Rojas
 
 vonHoldt, B.M., Schweizer, R.M., Stahler, D., **Robinson, J.A.**, Pires, D., Koepfli, K.P., 2023. In Memoriam: Robert K. Wayne, a pioneer of evolutionary genomics for wildlife with an emphasis on endangered species. *Journal of Heredity*, esad005. [doi:10.1093/jhered/esad005](https://doi.org/10.1093/jhered/esad005)
 
-**Robinson, J.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious Variation in Natural Populations and Implications for Conservation Genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
+**Robinson, J.**, Kyriazis, C.C., Yuan, S.C., Lohmueller, K.E., 2023. Deleterious variation in natural populations and implications for conservation genetics. *Annual Review of Animal Biosciences* 11, 93-114. [doi:10.1146/annurev-animal-080522-093311](https://doi.org/10.1146/annurev-animal-080522-093311)
 
 Vilgalys, T.P.\*, Fogel, A.S.\*, Anderson, J.A., Mututua, R.S., Warutere, J.K., Siodi, I.L., Kim, S.Y., Voyles, T.N., **Robinson, J.A.**, Wall, J.D., Archie, E.A., Alberts, S.C., Tung, J., 2022. Selection against admixture and gene regulatory divergence in a long-term primate field study. *Science* 377, 635-641. [doi:10.1126/science.abm4917](https://doi.org/10.1126/science.abm4917)
 
