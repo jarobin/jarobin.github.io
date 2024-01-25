@@ -78,6 +78,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 #### Oral
 \*Invited
 
+- 2024: \*Plant & Animal Genome Conference, San Diego, CA
 - 2021: \*The Evolution of Animal Genomes EMBO Workshop, DNA Zoo Satellite Meeting, *virtual*
 - 2021: Society for Molecular Biology and Evolution Meeting, *virtual*
 - 2021: Evolution Meeting, *virtual*
@@ -108,23 +109,23 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 
 ### Teaching Experience
 #### Instructor of Record
-- 2023: IB141 Human Genetics, UC Berkeley
+- 2023: IB 141 Human Genetics, UC Berkeley
 
 #### Teaching Assistant
-- 2016, 2015, 2014: EEB135/235 Population Genetics, UCLA
-- 2016, 2014, 2013: EEB116 Conservation Biology, UCLA
-- 2013: EEB100L Ecology & Behavior Lab, UCLA
-- 2013: LS15 Life, Concepts & Issues (for non-life science majors), UCLA
-- 2012: EEB120 Evolution, UCLA
+- 2016, 2015, 2014: EEB 135/235 Population Genetics, UCLA
+- 2016, 2014, 2013: EEB 116 Conservation Biology, UCLA
+- 2013: EEB 100L Ecology & Behavior Lab, UCLA
+- 2013: LS 15 Life, Concepts & Issues (for non-life science majors), UCLA
+- 2012: EEB 120 Evolution, UCLA
 
 #### Guest Lecturer
 - 2023: Introduction to Evolutionary Biology, "Conservation genomics: genetic diversity and inbreeding", [HSTalks](https://hstalks.com/bs/p/1071/)
 - 2022: Health and Society, "Genetics of Common Disease", UCSF
 - 2017: GE Cluster 70CW, “Loss of diversity and gain of deleterious mutations in Channel Island foxes”, UCLA
 - 2017: UCLA/La Kretz Workshop in Conservation Genomics, “Application of PSMC to a non-model species”, UCLA
-- 2016: EEB120 Evolution, “Genomics of wild populations”, UCLA
-- 2014: EEB120 Evolution, “Genomics: development of a model system and applications to non-model species”, UCLA
-- 2014: EEB116 Conservation Biology, “Conservation genetics”, UCLA
+- 2016: EEB 120 Evolution, “Genomics of wild populations”, UCLA
+- 2014: EEB 120 Evolution, “Genomics: development of a model system and applications to non-model species”, UCLA
+- 2014: EEB 116 Conservation Biology, “Conservation genetics”, UCLA
 
 
 ### Service and Outreach
