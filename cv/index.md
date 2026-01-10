@@ -5,14 +5,18 @@ title: Jacqueline A. Robinson, PhD
 ## CV
 
 [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5556-815X) **Jacqueline A. Robinson, PhD**  
-Postdoctoral Scholar  
+Associate Research Scholar
+Department of Ecology & Evolutionary Biology
+Princeton University
+
+### Education & Research Experience
+**Postdoctoral Scholar**  
 Institute for Human Genetics  
 University of California, San Francisco  
 Advisors: Dr. Jeffrey D. Wall, Dr. Dara G. Torgerson, Dr. Ryan D. Hernandez
 
-
-### Education
 **Ph.D. Biology, 2017**  
+Department of Ecology & Evolutionary Biology
 University of California, Los Angeles  
 Advisor: Dr. Robert K. Wayne
   
