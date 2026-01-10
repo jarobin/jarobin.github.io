@@ -5,9 +5,9 @@ title: Jacqueline A. Robinson, PhD
 ## CV
 
 [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5556-815X) **Jacqueline A. Robinson, PhD**  
-Associate Research Scholar
-Department of Ecology & Evolutionary Biology
-Princeton University
+Associate Research Scholar  
+Department of Ecology & Evolutionary Biology  
+Princeton University  
 
 ### Education & Research Experience
 **Postdoctoral Scholar**  
