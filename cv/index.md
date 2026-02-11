@@ -5,12 +5,12 @@ title: Jacqueline A. Robinson, PhD
 ## CV
 
 [![ORCiD](https://orcid.org/sites/default/files/images/orcid_16x16.png)](https://orcid.org/0000-0002-5556-815X) **Jacqueline A. Robinson, PhD**  
-Associate Research Scholar  
+Associate Research Scholar, 2025-present  
 Department of Ecology & Evolutionary Biology  
 Princeton University  
 
 ### Education & Research Experience
-**Postdoctoral Scholar**  
+**Postdoctoral Scholar, 2017-2025**  
 Institute for Human Genetics  
 University of California, San Francisco  
 Advisors: Dr. Jeffrey D. Wall, Dr. Dara G. Torgerson, Dr. Ryan D. Hernandez
@@ -26,6 +26,12 @@ University of Southern California
 
 ### Publications
 \*Contributed equally
+
+Kyriazis, C.C., **Robinson, J.A.**, Lohmueller, K.E., 2025. Long runs of homozygosity are reliable genomic markers of inbreeding depression. *Trends in Ecology & Evolution* 40, 874-884. [doi:10.1016/j.tree.2025.06.013 ](https://doi.org/10.1016/j.tree.2025.06.013 )
+
+Kyriazis, C.C., Venkatraman, M., Masuda, B., Steiner, C.C., Cassin-Sackett, L., Crampton, L.H., Flanagan, A.M., Foster, J.T., Houck, M.L., Misuraca, A.C., Paxton, E.H., **Robinson, J.A.**, Fleischer, R.C., Ryder, O.A., Campana, M.G., Wilder, A.P., 2025. Population genomics of recovery and extinction in Hawaiian honeycreepers. *Current Biology* 35, 2697-2708. [doi:10.1016/j.cub.2025.04.078 ](https://doi.org/10.1016/j.cub.2025.04.078 )
+
+Kendall, C., **Robinson, J.**, Debortoli, G., Nooranikhojasteh, A., Christian, D., Newman, D., Sayers, K., Cole, S., Parra, E., Schillaci, M., Viola, B., 2024. Global and local ancestry estimation in a captive baboon colony. *PLoS ONE* 19, e0305157. [doi:10.1371/journal.pone.0305157](https://doi.org/10.1371/journal.pone.0305157)
 
 Beichman, A.C., **Robinson, J.**, Lin, M., Moreno-Estrada, A., Nigenda-Morales, S., Harris, K., 2023. Evolution of the mutation spectrum across a mammalian phylogeny. *Molecular Biology and Evolution* 40, msad213. [doi:10.1093/molbev/msad213](https://doi.org/10.1093/molbev/msad213)
 
@@ -82,6 +88,7 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 #### Oral
 \*Invited
 
+- 2026: \*Plant & Animal Genome Conference, San Diego, CA
 - 2024: \*Plant & Animal Genome Conference, San Diego, CA
 - 2021: \*The Evolution of Animal Genomes EMBO Workshop, DNA Zoo Satellite Meeting, *virtual*
 - 2021: Society for Molecular Biology and Evolution Meeting, *virtual*
@@ -123,6 +130,8 @@ Gold, D.A., **Robinson, J.**, Farrell, A.B., Harris, J.M., Thalmann, O., Jacobs,
 - 2012: EEB 120 Evolution, UCLA
 
 #### Guest Lecturer
+- 2025: EEB 308 Conservation Biology, "Conservation genetics", Princeton University
+- 2025: EEB 371 Endangered Species & Extinction, "Predicting species extinction risk with genomics", Princeton University
 - 2023: Introduction to Evolutionary Biology, "Conservation genomics: genetic diversity and inbreeding", [HSTalks](https://hstalks.com/bs/p/1071/)
 - 2022: Health and Society, "Genetics of Common Disease", UCSF
 - 2017: GE Cluster 70CW, “Loss of diversity and gain of deleterious mutations in Channel Island foxes”, UCLA
